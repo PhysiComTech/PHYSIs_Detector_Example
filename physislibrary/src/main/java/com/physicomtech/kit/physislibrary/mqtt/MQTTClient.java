@@ -1,7 +1,9 @@
 package com.physicomtech.kit.physislibrary.mqtt;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Handler;
+import android.provider.Settings;
 import android.util.Log;
 
 import com.physicomtech.kit.physislibrary.mqtt.data.SubscribeData;
